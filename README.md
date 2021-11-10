@@ -2,8 +2,6 @@
 
 ## 강민규
 
----
-
 **Mobile App Developer Beginner**
 
 > Android, IOS(Swift)
