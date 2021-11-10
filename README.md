@@ -1,5 +1,3 @@
-# README.md
-
 ## 강민규
 
 **Mobile App Developer Beginner**
