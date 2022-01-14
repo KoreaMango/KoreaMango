@@ -5,4 +5,5 @@
 > Android, IOS(Swift)
 > 
 
-🔹 E-mail : mgo8434@naver.com
+🔹 E-mail  : mgo8434@naver.com
+🔹 tistory : https://koreamango.tistory.com
