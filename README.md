@@ -6,4 +6,4 @@
 
 🔹 velog : https://velog.io/@koreamango
 
-🔹 velog : https://koreamango.notion.site/Min-Gyu-s-home-e19c2562dbfe45aaa8bcf1ea93faea44
+🔹 notion : https://koreamango.notion.site/Min-Gyu-s-home-e19c2562dbfe45aaa8bcf1ea93faea44
