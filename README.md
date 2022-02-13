@@ -8,7 +8,7 @@
 
 🔹 notion : https://koreamango.notion.site/Min-Gyu-s-home-e19c2562dbfe45aaa8bcf1ea93faea44
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoreaMango)](https://github.com/anuraghazra/github-readme-stats)
 ### Skills
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
