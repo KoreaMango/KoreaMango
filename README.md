@@ -2,9 +2,9 @@
 
 **IOS App Developer Beginner**
 
-🔹 E-mail  : mgo8434@naver.com
-
-🔹 notion : https://koreamango.notion.site/Min-Gyu-s-home-e19c2562dbfe45aaa8bcf1ea93faea44
+✉️ E-mail : mgo8434@naver.com
+✍🏻 Blog   : https://koreamango.tistory.com
+🥭 notion : https://koreamango.notion.site/Min-Gyu-s-home-e19c2562dbfe45aaa8bcf1ea93faea44
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoreaMango)](https://github.com/anuraghazra/github-readme-stats)
 ### ⚒ Skills
