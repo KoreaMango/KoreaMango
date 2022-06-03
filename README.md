@@ -1,6 +1,6 @@
 ## 강민규
 
-**IOS App Developer Beginner**
+**iOS App Developer Beginner**
 
 ✉️ E-mail : mgo8434@naver.com 
 
