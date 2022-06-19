@@ -6,7 +6,7 @@
 
 ✍🏻 Blog   : https://koreamango.tistory.com
 
-🥭 notion : https://koreamango.notion.site/koreamango/Kang-Min-Gyu-9a0c2244fb174d6f9dee8610695e3540
+🥭 notion : [포트폴리오](https://koreamango.notion.site/e19c2562dbfe45aaa8bcf1ea93faea44)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoreaMango)](https://github.com/anuraghazra/github-readme-stats)
 
