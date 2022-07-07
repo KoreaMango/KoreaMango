@@ -15,7 +15,7 @@
 <br/>
 🥇 Swift Student Challenge Winner - WWDC 2022
 <br/>
-🌱 USG 공유대학_IOS 앱 개발 심화반
+🌱 USG 공유대학_iOS 앱 개발 심화반
 <br/>
 <br/>
 ### ⚒ Skills
