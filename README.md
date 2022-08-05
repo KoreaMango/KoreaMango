@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoreaMango)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⭐️ Profile
-🎓 GNU - Computer Science (경상국립대학교 컴퓨터과학과 3학년 수료), 휴학 중...
+🎓 GNU - Computer Science (경상국립대학교 컴퓨터과학과 4학년), 휴학 중...
 <br/>
 🥇 Swift Student Challenge Winner - WWDC 2022
 <br/>
