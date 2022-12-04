@@ -2,7 +2,7 @@
 
 **🧑🏻‍💻 iOS Developer**
 
-✉️ E-mail : mgo8434@naver.com 
+✉️ E-mail : mango1229@icloud.com
 
 ✍🏻 Blog   : https://koreamango.tistory.com
 
