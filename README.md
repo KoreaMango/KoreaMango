@@ -15,6 +15,9 @@
 <br/>
 🌱 USG 공유대학 iOS 앱 개발 심화반
 <br/>
+University Make Us 3기 iOS
+<br/>
+
 <br/>
 ### ⚒ Skills
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
