@@ -1,4 +1,4 @@
-# iOS 개발자 강민규입니다.
+## iOS 개발자 강민규입니다.
 
 
 ✉️ E-mail : mango1229@icloud.com
