@@ -5,7 +5,6 @@
 
 ✍🏻 Blog   : https://koreamango.tistory.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoreaMango)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⭐️ Profile
 🎓 GNU - Computer Science (경상국립대학교 컴퓨터과학과 4학년), 휴학 중...
