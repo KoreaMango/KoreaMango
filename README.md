@@ -13,6 +13,6 @@
 <br/>
 🌱 USG 공유대학 iOS 앱 개발 심화반
 <br/>
-University Make Us 3기 iOS
+🏫 University Make Us 3기 iOS
 <br/>
 
