@@ -1,9 +1,9 @@
 ## iOS 개발자 강민규입니다.
 
 
-✉️ E-mail : mango1229@icloud.com
+✉️ mango1229@icloud.com
 
-✍🏻 Blog   : https://koreamango.tistory.com
+✍🏻 https://koreamango.tistory.com
 
 
 ### ⭐️ Profile
