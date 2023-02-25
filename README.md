@@ -2,7 +2,6 @@
 
 
 ✉️ mango1229@icloud.com
-
 ✍🏻 https://koreamango.tistory.com
 
 
