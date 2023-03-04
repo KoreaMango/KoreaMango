@@ -1,10 +1,4 @@
 ## iOS 개발자 강민규입니다.
-
-
-✉️ mango1229@icloud.com <br/>
-✍🏻 https://koreamango.tistory.com
-
-
 🎓 경상국립대학교 컴퓨터과학과 4학년 - 휴학 
 <br/>
 🥇 Swift Student Challenge Winner - WWDC 2022
