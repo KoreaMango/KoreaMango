@@ -1,5 +1,5 @@
 ## iOS 개발자 강민규입니다.
-🎓 경상국립대학교 컴퓨터과학과 4학년 - 휴학 
+🎓 경상국립대학교 컴퓨터과학과 4학년  
 <br/>
 🥇 Swift Student Challenge Winner - WWDC 2022
 <br/>
